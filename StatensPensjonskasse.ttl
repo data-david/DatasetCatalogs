@@ -96,6 +96,7 @@
         a              dcat:Catalog ;
         dct:publisher   <http://data.brreg.no/enhetsregisteret/enhet/974760967> ;
         dct:title      "Datakatalog for Statens pensjonskasse"@nb ;
+		dct:description  "Datakatalog for Statens pensjonskasse"@nb ;
         dcat:dataset   <http://brreg.no/catalogs/974760967/datasets/63086dda-9b72-43f0-bbc2-3ced4bc2edd6> .
 
 		
