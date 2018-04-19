@@ -16,7 +16,7 @@
 
 
 
-<http://data.brreg.no/enhetsregisteret/enhet/974760967>
+<http://data.brreg.no/enhetsregisteret/enhet/982583462>
         a               foaf:Agent ;
         dct:identifier  "974760967" ;
         foaf:name       "SPK" .
@@ -24,7 +24,7 @@
 
 <http://brreg.no/catalogs/974760967/datasets/63086dda-9b72-43f0-bbc2-3ced4bc2edd6>
         a                               dcat:Dataset ;
-        dct:publisher                   <http://data.brreg.no/enhetsregisteret/enhet/974760967> ;
+        dct:publisher                   <http://data.brreg.no/enhetsregisteret/enhet/982583462> ;
 		dct:identifier                  "2" ;
 		dct:title                       "Opptjeningsgrunnlag for tjenestepensjon i SPK"@nb ;
 		dct:description                 "Opptjeningsgrunnlaget inneholder lønns- og stillingsdata i offentlig stilling for alle medlemmer av Statens pensjonskasse. Datasettet omfatter pensjonsgivende lønn, stillingsprosent, stillingskode eller – betegnelse og arbeidsgiver (organisasjonsnummer) for alle perioder som ansatt i medlemspliktig stilling. Inntekt som ikke er pensjonsgivende i SPK (som for eksempel overtid) omfattes ikke av datasettet."@nb ;
@@ -94,7 +94,7 @@
 
 <http://brreg.no/catalogs/974760967>
         a              dcat:Catalog ;
-        dct:publisher   <http://data.brreg.no/enhetsregisteret/enhet/974760967> ;
+        dct:publisher   <http://data.brreg.no/enhetsregisteret/enhet/982583462> ;
         dct:title      "Datakatalog for Statens pensjonskasse"@nb ;
 		dct:description  "Datakatalog for Statens pensjonskasse"@nb ;
         dcat:dataset   <http://brreg.no/catalogs/974760967/datasets/63086dda-9b72-43f0-bbc2-3ced4bc2edd6> .
